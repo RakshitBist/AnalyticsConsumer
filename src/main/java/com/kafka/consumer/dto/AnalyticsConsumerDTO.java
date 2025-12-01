@@ -15,6 +15,6 @@ public class AnalyticsConsumerDTO {
     private String eventType;
     private String deviceType; // mobile/desktop
     private String browser;
-    private long timestamp;
+    private Long timestamp;
 
 }
